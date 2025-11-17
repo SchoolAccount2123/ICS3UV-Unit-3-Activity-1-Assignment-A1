@@ -11,4 +11,4 @@ const area: number = PI * radius * radius;
 //display the results
 
 console.log("The Radius is:", radius, "cm");
-console.log("The area of the circle is:", area.toFixed(2), "square cm")
+console.log("The area of the circle is:", area, "square cm")
